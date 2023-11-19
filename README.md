@@ -7,7 +7,7 @@ Coronavirus disease 2019 (COVID-19) is a contagious disease caused by the virus 
 
 (vist.google)(https://www.asu.edu.jo)
 
-[photo](images.jpg)
+![photo](images.jpg)
 
 
 # Headings:
